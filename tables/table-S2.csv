@@ -1,0 +1,13 @@
+Aedes aegypti,,,Aedes albopictus,
+Covariate,Permutation importance (%),,Covariate,Permutation importance (%)
+Population-log,17.9,,LST-variance,51.9
+LST-variance,13.3,,Population-cattle,10.3
+PCP-mean,12.3,,PCP-variance,10
+LAI-mean,12.1,,PCP-mean,7.5
+LAI-variance,11.4,,PCP-skew,4.9
+LST-mean,10.3,,LST-mean,3.7
+Population-cattle,9.5,,Population-log,3.2
+PCP-variance,8.2,,LAI-mean,2.7
+PCP-skew,2.8,,LC-Trees,2.3
+LST-skew,1.8,,LST-skew,2
+LC-Trees,0.3,,LAI-variance,1.4

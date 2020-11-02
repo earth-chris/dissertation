@@ -1,0 +1,48 @@
+\documentclass{report}
+\usepackage{format-stanford}
+\usepackage{breakcites}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{csvsimple}
+\usepackage{gensymb}
+\usepackage{hyperref}
+\usepackage{siunitx}
+\usepackage{epigraph}
+\graphicspath{{./figures/}}
+\onlinetrue
+\setstretch{1.6}
+
+\begin{document}
+\title{Biodiversity Monitoring, Earth Observations and the Ecology of Scale}
+\author{Christopher Benjamin Anderson}
+\principaladviser{Gretchen C. Daily}
+\firstreader{Erin A. Mordecai}
+\secondreader{Christopher B. Field}
+\submitdate{December 2020}
+\dept{Biology}
+
+% preface
+\beforepreface
+\input{abstract.tex}
+\input{epigraph.tex}
+\input{acknowledgements.tex}
+\afterpreface
+
+% main text
+\input{manuscript-introduction.tex}
+\input{manuscript-ch1.tex}
+\input{manuscript-ch2.tex}
+\input{manuscript-ch3.tex}
+\input{manuscript-conclusions.tex}
+
+% appendix
+\appendix
+\input{glossary.tex}
+\input{appendix-supplement.tex}
+\input{appendix-other-work.tex}
+\input{appendix-ele.tex}
+
+% bibliography
+\bibliographystyle{apalike}
+\bibliography{bibliography}
+\end{document}

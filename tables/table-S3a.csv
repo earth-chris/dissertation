@@ -1,0 +1,56 @@
+Site Name,Country code,Latitude,Longitude,Aedes count,Non-Aedes count,Land cover class
+SV01,CR,8.813,-82.967,0,3,urban
+SV02,CR,8.834,-82.974,0,8,urban
+SV05,CR,8.821,-82.967,1,6,urban
+SV06,CR,8.827,-82.956,0,12,urban
+ISLA,CR,8.832,-82.963,0,0,agriculture
+SL01,CR,8.819,-82.912,5,15,urban
+SL02,CR,8.815,-82.905,12,14,urban
+CB01,CR,8.742,-82.944,3,2,urban
+CB02,CR,8.744,-82.951,0,4,urban
+CB03,CR,8.743,-82.949,14,23,urban
+CB05,CR,8.751,-82.951,2,3,urban
+CB04,CR,8.752,-82.948,2,18,urban
+CN03,CR,8.650,-82.979,3,2,urban
+OP01,CR,8.629,-82.967,1,10,agriculture
+OP03,CR,8.630,-82.969,11,18,agriculture
+OP03B,CR,8.630,-82.970,4,28,agriculture
+CN04,CR,8.644,-82.947,1,209,urban
+CN06,CR,8.651,-82.931,5,7,urban
+SATE,CR,8.809,-82.924,2,2,agriculture
+GABO,CR,8.802,-82.972,0,12,forest edge
+GAPA,CR,8.806,-82.974,0,97,forest edge
+RIJA,CR,8.787,-82.964,0,172,forest
+MELI,CR,8.789,-82.968,0,244,forest
+PV01,CR,8.427,-83.102,3,8,urban
+PV02,CR,8.426,-83.101,0,2,agriculture
+PV04,CR,8.379,-83.144,0,2,agriculture
+PV05,CR,8.347,-83.126,0,1,forest
+SAFR,CR,8.765,-82.943,0,7,agriculture
+ELPU,CR,8.769,-82.950,0,5,agriculture
+PINO,CR,8.844,-82.970,6,8,agriculture
+SABO,CR,8.800,-82.917,5,2,urban
+SV04,CR,8.831,-82.974,5,7,urban
+FRAG,CR,8.785,-82.989,0,20,forest edge
+FILA,CR,8.786,-82.978,0,16,forest
+LOAN,CR,8.783,-82.938,0,204,forest
+FELO,CR,8.846,-82.878,2,2,agriculture
+VALE,CR,8.846,-82.900,0,7,agriculture
+QUST,CR,8.815,-82.924,0,3,forest
+PM01,PE,-12.589,-69.196,1,27,urban
+PM02,PE,-12.596,-69.196,13,15,urban
+PM03,PE,-12.598,-69.197,7,12,urban
+PM04,PE,-12.594,-69.194,3,13,urban
+PM05,PE,-12.593,-69.194,1,16,urban
+PM06,PE,-12.588,-69.198,2,36,urban
+PM07,PE,-12.589,-69.201,4,15,urban
+PM08,PE,-12.594,-69.200,9,87,urban
+PM09,PE,-12.605,-69.193,0,38,urban
+PM10,PE,-12.584,-69.196,2,2,urban
+PM11,PE,-12.584,-69.202,12,88,urban
+PM12,PE,-12.578,-69.201,0,105,urban
+PM13,PE,-12.577,-69.193,10,88,urban
+PM14,PE,-12.572,-69.195,9,136,urban
+PM15,PE,-12.562,-69.192,0,115,urban
+PM16,PE,-12.571,-69.175,0,289,agriculture
+PM17,PE,-12.570,-69.175,3,465,agriculture

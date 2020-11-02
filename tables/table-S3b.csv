@@ -1,0 +1,56 @@
+Site Name,Country code,Latitude,Longitude,Aedes count,Non-Aedes count,Land cover class
+PM18,PE,-12.575,-69.180,0,131,urban
+PM19,PE,-12.603,-69.199,5,20,urban
+PM20,PE,-12.606,-69.202,3,79,agriculture
+PM21,PE,-12.607,-69.197,1,14,urban
+PM22,PE,-12.596,-69.173,0,49,agriculture
+PM23,PE,-12.599,-69.180,0,2,agriculture
+PM24,PE,-12.603,-69.181,2,208,agriculture
+MA01,PE,-13.103,-70.368,0,4,urban
+MA02,PE,-13.100,-70.367,1,27,urban
+MA03,PE,-13.099,-70.372,0,4,urban
+MA04,PE,-13.098,-70.369,2,5,urban
+MA05,PE,-13.100,-70.367,1,4,urban
+MA06,PE,-13.102,-70.368,8,1,urban
+MA07,PE,-13.103,-70.370,0,8,urban
+MA08,PE,-13.105,-70.369,1,7,urban
+MA09,PE,-13.103,-70.369,1,10,urban
+MA10,PE,-13.062,-70.350,0,5,forest edge
+MA11,PE,-13.048,-70.346,0,2,agriculture
+MA12,PE,-13.037,-70.345,0,28,forest
+MA13,PE,-13.030,-70.348,0,10,forest
+MA14,PE,-13.069,-70.354,0,11,forest
+MA15,PE,-13.077,-70.359,0,221,urban
+MA16,PE,-13.113,-70.372,0,14,urban
+MA18,PE,-13.086,-70.362,0,11,urban
+MA19,PE,-13.086,-70.363,0,31,urban
+MA20,PE,-13.081,-70.360,0,2,urban
+MA23,PE,-13.073,-70.358,1,22,urban
+MA21,PE,-13.072,-70.358,1,16,urban
+MA22,PE,-13.072,-70.360,0,61,agriculture
+MA24,PE,-13.084,-70.362,0,16,urban
+VP01,PE,-11.043,-69.573,0,48,agriculture
+VP02,PE,-11.043,-69.573,0,23,agriculture
+VP04,PE,-11.042,-69.574,0,173,agriculture
+VP05,PE,-11.042,-69.572,0,40,agriculture
+VP06,PE,-11.043,-69.574,0,3,agriculture
+VP07,PE,-11.043,-69.575,0,17,agriculture
+VP02,PE,-11.043,-69.573,0,23,agriculture
+VP03,PE,-11.042,-69.571,0,11,agriculture
+VP09,PE,-11.043,-69.574,0,4,agriculture
+VP08,PE,-11.043,-69.574,0,19,agriculture
+VP10,PE,-11.033,-69.568,0,3,agriculture
+VP11,PE,-11.034,-69.570,0,10,agriculture
+VP12,PE,-11.035,-69.571,0,13,agriculture
+VP13,PE,-11.036,-69.572,0,35,agriculture
+VP14,PE,-11.042,-69.574,0,186,agriculture
+VP15,PE,-11.042,-69.575,0,29,agriculture
+VP19,PE,-11.035,-69.562,0,19,agriculture
+VP20,PE,-11.035,-69.563,0,2,forest edge
+VP21,PE,-11.036,-69.564,0,9,forest edge
+VP22,PE,-11.036,-69.563,0,7,agriculture
+VP23,PE,-11.036,-69.563,0,19,agriculture
+VP24,PE,-11.036,-69.563,0,59,agriculture
+VP16,PE,-11.047,-69.574,0,5,agriculture
+VP17,PE,-11.055,-69.572,0,17,agriculture
+VP18,PE,-11.040,-69.576,0,13,agriculture

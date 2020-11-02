@@ -1,0 +1,26 @@
+Site Name,Country code,Latitude,Longitude,Aedes count,Non-Aedes count,Land cover class
+IB01,PE,-11.669,-69.221,2,70,forest
+IB02,PE,-11.667,-69.226,0,38,forest
+IB03,PE,-11.662,-69.234,0,12,agriculture
+IB04,PE,-11.655,-69.240,0,118,agriculture
+IB05,PE,-11.625,-69.254,0,11,forest edge
+IB06,PE,-11.573,-69.291,0,31,forest edge
+IB07,PE,-11.573,-69.292,0,21,forest
+IB08,PE,-11.539,-69.293,0,114,forest
+IB09,PE,-11.506,-69.300,0,130,forest edge
+IB10,PE,-11.502,-69.302,0,133,forest edge
+IB11,PE,-11.500,-69.303,1,59,forest edge
+IB12,PE,-11.495,-69.308,1,91,forest edge
+IB13,PE,-11.478,-69.308,0,44,forest edge
+IB15,PE,-11.463,-69.306,2,87,forest edge
+IB16,PE,-11.447,-69.268,0,35,forest
+IB17,PE,-11.447,-69.270,0,105,forest
+IB18,PE,-11.447,-69.270,0,15,forest
+IB19,PE,-11.446,-69.272,0,18,forest
+IB20,PE,-11.446,-69.273,1,27,forest
+IB21,PE,-11.446,-69.274,2,39,forest
+IB22,PE,-11.446,-69.276,0,32,forest
+IB23,PE,-11.445,-69.279,0,29,forest
+IB24,PE,-11.445,-69.281,0,5,forest
+IB25,PE,-11.470,-69.305,0,259,agriculture
+PM25,PE,-12.576,-69.155,0,706,agriculture

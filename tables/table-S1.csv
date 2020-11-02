@@ -1,0 +1,45 @@
+Sensor,EBV,Resoution (m),Revisit time (d),Sensor type
+ALOS-AVNIR-2,Forest Cover,10,2,Multispectral
+ALOS-PALSAR,Forest Cover,10-100,46,Radar-L-Band
+ALOS-PALSAR-2,Forest Cover,3-60,46,Radar-L-Band
+ASTER,Functional Composition,15-90,16,Multispectral-Thermal
+AVHRR,Land Cover,1100,0.5,Multispectral-Thermal
+CBERS-IRMSS/WFI,Land Cover,20-258,3-26,Multispectral
+Cosmo-SkyMed-SAR,Aboveground Biomass,1-100,0.5-5,Radar-X-band
+Envisat-AATSR,Disturbance Regime,1000,3,Multispectral-Thermal
+Envisat-ASAR,Ecosystem Extent,30-1000,2-7,Radar-C-Band
+ERS-ATSR,Disturbance Regime,1000,3,Multispectral-Thermal
+ERS-AMI-SAR,Soil Moisture,30-1000,35,Radar-C-Band
+Formosat-2,Land Cover,2-8,1,Multispectral
+FY-1-MVISR,Disturbance Regime,1100,3-4,Multispectral-Thermal
+FY-3-MERSI,Leaf Area Index,250-1100,1,Multispectral-Thermal
+GeoEye-1,Species Occurrence,0.4-1.65,2.1-8.3,Multispectral
+HJ-1A-HSI,Land Cover,100,4-31,Hyperspectral
+IRMSS-HJ-1B,Disturbance Regime,150-300,4,Multispectral-Thermal
+ICESat-GLAS,Tree Height,66,33-91,Large-footprint LiDAR
+IKONOS,Taxonomic Diversity,1-4,3,Multispectral
+Landsat-TM,Forest Cover,30-120,16,Multispectral-Thermal
+Landsat-ETM+,Land Cover,30-60,16,Multispectral-Thermal
+Landsat-OLI,Phenology,15-30,16,Multispectral-Thermal
+EO-1-ALI,Land Cover,10-30,16,Multispectral
+EO-1-Hyperion,Physiological Traits,30,16,Hyperspectral
+MODIS,Leaf Area Index,250-1000,1-2,Multispectral-Thermal
+Planet,Net primary productivity,3-5,1,Multispectral
+Pleaides-HiRI,Taxonomic Diversity,0.7-2.8,2,Multispectral
+QuickBird,Species Occurrence,2.4-0.6,2.5-5.6,Multispectral
+RadarSat-1,Ecosystem Extent,8-100,24,Radar-C-Band
+RadarSat-2,Ecosystem Extent,3-100,24,Radar-C-Band
+RapidEye,Land Cover,5,1-5.5,Multispectral
+Resourcesat-AWiFS,Disturbance Regime,5.8-56,5,Multispectral
+RISAT-1,Taxonomic Diversity,3-50,25,Radar-C-Band
+Sentinel-1A,Soil Moisture,5-25,12,Radar-C-Band
+Sentinel-2A,Ecosystem Extent,10-20,5-10,Multispectral-Thermal
+SPOT-HRV,Habitat Structure,10-20,2-3,Multispectral
+SPOT-HRVIR,Ecosystem Extent,10-20,2-3,Multispectral
+SPOT-Vegetation,Disturbance Regime,1000,1,Multispectral
+SPOT-HRG,Forest Cover,2.5-20,2-3,Multispectral
+Suomi NPP-VIIRS,Disturbance Regime,375-750,0.5-1,Multispectral-Thermal
+Tandem-X,Aboveground Biomass,1-18,11,Radar-X-Band
+TerraSAR-X,Functional Composition,1-18,11,Radar-X-Band
+WorldView-2,Species Occurrence,0.5-1.8,1.1-3.7,Multispectral
+WorldView-3,Species Occurrence,0.5-3.7,1-4.5,Multispectral
